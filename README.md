@@ -4,7 +4,11 @@ This Power BI dashboard provides a deep dive into e-commerce sales, customer beh
 
 
 **Key Features**
+
 ✅ Sales Performance Analysis – Track revenue, profit margins, and top-performing products.
+
 ✅ Customer Insights – Understand buying patterns, demographics, and retention trends.
+
 ✅ Market Trends & Forecasting – Identify seasonality, demand fluctuations, and future opportunities.
+
 ✅ Interactive Visuals – Easily filter, drill down, and explore data in real time.
